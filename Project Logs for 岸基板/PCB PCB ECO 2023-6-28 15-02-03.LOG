@@ -1,0 +1,7 @@
+Added Component: Designator=USB(USB-MICRO_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "微型USB母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component USB USB-5P
+Added Room: Name=Sheet

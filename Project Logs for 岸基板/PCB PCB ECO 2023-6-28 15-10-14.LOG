@@ -1,0 +1,42 @@
+Added Component: Designator=C5(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=+5 Pin=U2-5
+Added Pin To Net: NetName=+5 Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=D+ Pin=U2-1
+Added Pin To Net: NetName=D+ Pin=USB-3
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=U2-2
+Added Pin To Net: NetName=D- Pin=USB-2
+Added Net: Name=D-
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-8
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=RX Pin=U2-7
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=U2-6
+Added Net: Name=TX
+Added Member To Class: ClassName=Sheet Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet Member=Component C6 100nF

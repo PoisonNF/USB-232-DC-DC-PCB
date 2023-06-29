@@ -1,0 +1,64 @@
+Change Component Footprint: Designator=LED1 Old Footprint=0603_LED New Footprint=LED0603-RD
+Change Component Footprint: Designator=LED2 Old Footprint=0603_LED New Footprint=LED0603-RD
+Change Component Footprint: Designator=LED3 Old Footprint=0603_LED New Footprint=LED0603-RD
+Change Component Comment : Designator=LED1 Old Comment= New Comment=NCD0603R1_C84263
+Change Component Comment : Designator=LED2 Old Comment= New Comment=NCD0603R1_C84263
+Change Component Comment : Designator=LED3 Old Comment= New Comment=NCD0603R1_C84263
+Change component parameters: Designator = "LED1"; Footprint = "LED0603-RD"; UniqueID = "\FMJZAEOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2"; Footprint = "LED0603-RD"; UniqueID = "\EQMRVSWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3"; Footprint = "LED0603-RD"; UniqueID = "\AACYCGDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-1
+Added Pin To Net: NetName=+5 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-1
+Added Pin To Net: NetName=+5 Pin=LED3-2
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED3_1
+Added Room: Name=Sheet

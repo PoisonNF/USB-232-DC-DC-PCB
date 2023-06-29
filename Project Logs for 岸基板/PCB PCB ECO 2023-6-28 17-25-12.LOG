@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=L1 Old Footprint=0805_L New Footprint=IND-SMD_L7.3-W6.8
+Change Component Comment : Designator=L1 Old Comment=22uH ¡À10% New Comment=22uH
+Change component parameters: Designator = "L1"; Footprint = "IND-SMD_L7.3-W6.8"; UniqueID = "\IVEABBRN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190729/C408453_64865E9628338F56CB759A725C0B9F8F.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "170m¦¸"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MWSA0603S-220MT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "22uH ¡À20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sunlord(Ë³Âç)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MWSA0603S-220MT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C408453"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MWSA0603S-220MT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "¡À20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7mm"; VariantName = "[No Variations]"
+Added Room: Name=Sheet

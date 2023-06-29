@@ -1,0 +1,17 @@
+Added Component: Designator=U3(SOP-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221230/256C03E6A712651C05B16D4BCED108A3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MAX232D_C5342103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "RS232Ð¾Æ¬"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tokmas(ÍÐ¿ËÂíË¹)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MAX232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MAX232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5342103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MAX232D_C5342103"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component U3 MAX232D_C5342103
+Added Room: Name=Sheet
