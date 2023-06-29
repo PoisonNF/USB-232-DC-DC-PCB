@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+12 Pin=POWER-1
+Removed Pin From Net: NetName=+12 Pin=POWER-1
+Removed Pin From Net: NetName=GND Pin=POWER-2
+Removed Pin From Net: NetName=GND Pin=POWER-3
+Removed Member From Class: ClassName=Sheet Member=POWER
+Added Component: Designator=CN??(CONN-TH_XT60PW-M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180125/C98732_15168617837851301983.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)航模插头xt90连接器150公母对接pw锂电池公头 板插卧式XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C98732"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN??-1
+Added Pin To Net: NetName=+12 Pin=CN??-2
+Added Member To Class: ClassName=Sheet Member=Component CN?? XT60PW-M

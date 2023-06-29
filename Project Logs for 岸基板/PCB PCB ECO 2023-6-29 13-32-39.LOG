@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=CN-1
+Removed Pin From Net: NetName=+12 Pin=CN-2
+Removed Member From Class: ClassName=Sheet Member=CN
+Added Component: Designator=POWER(DC-IN_DC050-T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "U?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "DC050-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DC050-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=POWER-1
+Added Pin To Net: NetName=+12 Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Member To Class: ClassName=Sheet Member=Component POWER DC050-T
