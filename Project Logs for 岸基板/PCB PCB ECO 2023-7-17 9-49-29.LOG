@@ -1,0 +1,33 @@
+Added Component: Designator=USB(MICRO-USB-SMD_MICROXNJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Micro-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Power (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220415/2494EDFF499AF6F852F7C820374B6AF3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MicroXNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Ä¸×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Micro-B Ä¸×ù ÎÔÌù Ð¡Å£½ÇÓÐÖù ¾í±ß ±à´ø"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(Ê×º«)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MicroXNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÎÔÌù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MicroXNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-20¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C404969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MICROXNJ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=USB-1
+Added Pin To Net: NetName=D_N Pin=USB-2
+Added Pin To Net: NetName=D_P Pin=USB-3
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Pin To Net: NetName=GND Pin=USB-7
+Added Pin To Net: NetName=GND Pin=USB-8
+Added Pin To Net: NetName=GND Pin=USB-9
+Added Member To Class: ClassName=Sheet Member=Component USB MicroXNJ
+Added Room: Name=Sheet
